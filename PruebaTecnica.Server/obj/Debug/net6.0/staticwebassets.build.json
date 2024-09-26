@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "RPoCLiEnzxWKnIU9CqHig1NyBjm5CfUGpMTUtyyG2Qw=",
+  "Source": "PruebaTecnica.Server",
+  "BasePath": "_content/PruebaTecnica.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\maos9\\source\\repos\\PruebaTecnica\\PruebaTecnica\\pruebatecnica.client\\pruebatecnica.client.esproj",
+      "Version": 2,
+      "Source": "pruebatecnica.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

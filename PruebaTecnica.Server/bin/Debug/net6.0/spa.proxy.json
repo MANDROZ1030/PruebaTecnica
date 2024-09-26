@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\maos9\\source\\repos\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.Server\\..\\pruebatecnica.client",
+"MaxTimeoutInSeconds": "120"
+}
+}
